@@ -1,4 +1,4 @@
-To run the code you provided, you will need the following libraries and dependencies:
+To run the code, you will need the following libraries and dependencies:
 
 1. `speech_recognition`: This library allows you to capture and recognize speech input from a microphone.
    You can install it using pip:
